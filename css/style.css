@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.contain {
+    border: 2px solid #8b4513;
+    background: antiquewhite;
+}
+
+h1 {
+    display: inline-block;
+}
+
+#right {
+    display: inline;
+    float: inline-end;
+    padding: 8px;
+}
+
