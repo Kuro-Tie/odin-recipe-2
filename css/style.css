@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .contain {
@@ -21,4 +22,30 @@
 
 #home_body {
     background: antiquewhite;
+    text-align: center;
 }
+
+.window {
+    border: 10px solid #8b4513;
+    margin: 50px;
+}
+
+
+ul{
+    display:inline-block;
+    border: 2px solid #8b4513;
+    padding:20px;
+    text-align: left;
+}
+
+ol {
+    margin: 40px;
+    display:inline-block;
+    border: 2px solid #8b4513;
+    padding:30px;
+    text-align: left;
+}    
+
+h2 {
+    margin: 35px;
+} 
