@@ -9,7 +9,7 @@
     background: antiquewhite;
 }
 
-h1 {
+#heading {
     display: inline-block;
 }
 
@@ -18,4 +18,3 @@ h1 {
     float: inline-end;
     padding: 8px;
 }
-
